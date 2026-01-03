@@ -10,4 +10,4 @@ driver = webdriver.Chrome(options=options)
 driver.maximize_window()
 driver.get("https://demoqa.com/")
 print("new line")
-time.sleep(10)
+
